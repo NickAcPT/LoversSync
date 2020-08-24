@@ -1,4 +1,4 @@
-package io.github.nickac.loverssync.bungee.spigot;
+package io.github.nickac.loverssync.spigot;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
